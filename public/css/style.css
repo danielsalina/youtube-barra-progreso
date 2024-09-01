@@ -1,0 +1,12 @@
+/* Estilos adicionales para centrar el contenido */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.progress-container {
+  width: 50%;
+}
